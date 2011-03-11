@@ -1,6 +1,6 @@
 zh-TW:
   
-  label_booty_bay: 藏寶海灣
+  label_booty_bay: 實體資源
 
   label_library: 圖書館
   label_book_new: 新建圖書
@@ -64,7 +64,7 @@ zh-TW:
   text_send_devices: 設備列表
   text_statement_hello: 您收到這封郵件是因為您持有本系統記錄的圖書或設備，請核實帳單詳情如下
 
-  permission_view_treasures: 查看寶貝
-  permission_manage_treasures: 管理寶貝
+  permission_view_treasures: 查看資源
+  permission_manage_treasures: 管理資源
 
-  project_module_ezlibrarian: 藏寶海灣
+  project_module_ezlibrarian: 實體資源

@@ -1,6 +1,6 @@
 en:
 
-  label_booty_bay: Booty Bay
+  label_booty_bay: Physical Resource
 
   label_library: Book Shelf
   label_book_new: New book
@@ -64,7 +64,7 @@ en:
   text_send_devices: Devices
   text_statement_hello: Here is the detail as follow
   
-  permission_view_treasures: View treasures
-  permission_manage_treasures: Manage treasures
+  permission_view_treasures: View resources
+  permission_manage_treasures: Manage resources
 
-  project_module_ezlibrarian: Booty bay
+  project_module_ezlibrarian: Physical Resource
